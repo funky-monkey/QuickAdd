@@ -8,7 +8,7 @@ Xcode was lacking a way to quickly add a method. So I created it.
 
 ### Installation Guide (Xcode 8 / OSX 10.11+)
 
-1. download the [Quick Add app](https://github.com/funky-monkey/QuickAdd/releases/QuickAddPlugin.zip)
+1. download the [Quick Add app](https://github.com/funky-monkey/QuickAdd/blob/master/release/QuickAddPlugin.zip)
 2. unzip and copy to Applications folder
 3. Run (right click + open)
 4.  -> System Preferences ⇒ Extensions ⇒ All ⇒ QuickAddPlugin. (See image 1 below.)
