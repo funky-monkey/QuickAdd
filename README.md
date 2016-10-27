@@ -28,6 +28,5 @@ Xcode was lacking a way to quickly add a method. So I created it.
 ### Usage
 Select the text you want to add an method implementation of, press `⌥⌘i` and presto! A full method implementation!
 
-
 ### Supported languages
 - Swift (for now)
