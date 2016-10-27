@@ -11,8 +11,8 @@ Xcode was lacking a way to quickly add a method. So I created it.
 1. download the [Quick Add app](https://github.com/funky-monkey/QuickAdd/blob/master/release/QuickAddPlugin.zip)
 2. unzip and copy to Applications folder
 3. Run (right click + open)
-4.  ⇒ System Preferences ⇒ Extensions ⇒ All ⇒ QuickAddPlugin. (See image 1 below.)
-5.  ⇒ System Preferences ⇒ Keyboard ⇒ Shortcuts. Add Shortcut `⌥⌘i` for `Add method with comment`. (See image 2 below.)
+4.  System Preferences ⇒ Extensions ⇒ All ⇒ QuickAddPlugin. (See image 1 below.)
+5.  System Preferences ⇒ Keyboard ⇒ Shortcuts. Add Shortcut `⌥⌘i` for `Add method with comment`. (See image 2 below.)
 6. open Xcode
 7. Select any Swift source file
 8. check if `Editor -> Quick Add` is there 
