@@ -1,5 +1,6 @@
 # Quick Add
-[![Platform](https://img.shields.io/cocoapods/p/Typist.svg?style=flat)](https://github.com/funky-monkey/QuickAdd)[![version](https://img.shields.io/badge/version-0.1.0-brightgreen.svg)](https://github.com/funky-monkey/QuickAdd)![Swift Version](https://img.shields.io/badge/swift-3.0-orange.svg?style=flat)
+[![Platform](https://img.shields.io/cocoapods/p/Typist.svg?style=flat)](https://github.com/funky-monkey/QuickAdd)[![version](https://img.shields.io/badge/version-1.0-brightgreen.svg)] (https://github.com/funky-monkey/QuickAdd)![Swift Version]  
+ (https://img.shields.io/badge/swift-3.0-orange.svg?style=flat)
 
 A Xcode Source Editor Extension to quickly add a method implementation _with_ comment from selected text
 
