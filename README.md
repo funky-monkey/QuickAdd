@@ -21,13 +21,13 @@ Xcode was lacking a way to quickly add a method. So I created it.
 7. Select any Swift source file
 8. check if `Editor -> Quick Add` is there 
 
-<br>
-#### Image 1:
+
+#### Image 1
 
 [![Extensions](Assets/extension.png)]()
 
-<br>
-#### Image 2:
+
+#### Image 2
 
 [![Extensions](Assets/shortcut.png)]()
 
