@@ -21,6 +21,19 @@ Xcode was lacking a way to quickly add a method. So I created it.
 7. Select any Swift source file
 8. check if `Editor -> Quick Add` is there 
 
+### Installation Guide (Xcode 9)
+
+1. Download and unzip the project.
+2. Open "Add Method.xcodeproj".
+3. Enable target signing for both the Application and the Source Code Extension.
+4. Product > Archive.
+5. Right click archive > Show in Finder.
+6. Right click archive > Show Package Contents.
+7. Open Products, Applications.
+8. Drag **Add Method.app** to Applications folder.
+9. Run **Add Method.app** and exit.
+10. Go to System Preferences -> Extensions -> Xcode Source Editor and enable this extension.
+11. The menu-item should now be available from Xcode's Editor menu.
 
 #### Image 1
 
