@@ -185,11 +185,13 @@
 					2EE982911DB7FDB300A71A70 = {
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = 5HJ7T7BJUK;
+						LastSwiftMigration = 1000;
 						ProvisioningStyle = Automatic;
 					};
 					2EE982A71DB7FDE300A71A70 = {
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = 5HJ7T7BJUK;
+						LastSwiftMigration = 1000;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -375,7 +377,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nl.funkymonkey.Add-Method";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -391,7 +394,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nl.funkymonkey.Add-Method";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -408,7 +412,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "nl.funkymonkey.Add-Method.Quick-Add";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -425,7 +430,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "nl.funkymonkey.Add-Method.Quick-Add";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -448,6 +454,7 @@
 				2EE982A31DB7FDB300A71A70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2EE982B71DB7FDE300A71A70 /* Build configuration list for PBXNativeTarget "Quick Add" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +463,7 @@
 				2EE982B91DB7FDE300A71A70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
