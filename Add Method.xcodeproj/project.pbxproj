@@ -184,13 +184,13 @@
 				TargetAttributes = {
 					2EE982911DB7FDB300A71A70 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = D54US7N29T;
+						DevelopmentTeam = 5HJ7T7BJUK;
 						LastSwiftMigration = 1000;
 						ProvisioningStyle = Automatic;
 					};
 					2EE982A71DB7FDE300A71A70 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = D54US7N29T;
+						DevelopmentTeam = 5HJ7T7BJUK;
 						LastSwiftMigration = 1000;
 						ProvisioningStyle = Automatic;
 					};
@@ -372,7 +372,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = D54US7N29T;
+				DEVELOPMENT_TEAM = 5HJ7T7BJUK;
 				INFOPLIST_FILE = "Add Method/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nl.funkymonkey.Add-Method";
@@ -389,7 +389,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = D54US7N29T;
+				DEVELOPMENT_TEAM = 5HJ7T7BJUK;
 				INFOPLIST_FILE = "Add Method/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nl.funkymonkey.Add-Method";
@@ -405,7 +405,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Quick Add/Quick_Add.entitlements";
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = D54US7N29T;
+				DEVELOPMENT_TEAM = 5HJ7T7BJUK;
 				INFOPLIST_FILE = "Quick Add/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
@@ -423,7 +423,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Quick Add/Quick_Add.entitlements";
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = D54US7N29T;
+				DEVELOPMENT_TEAM = 5HJ7T7BJUK;
 				INFOPLIST_FILE = "Quick Add/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
