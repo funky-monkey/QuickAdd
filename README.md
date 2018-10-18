@@ -10,7 +10,7 @@ A Xcode Source Editor Extension to quickly add a method implementation _with_ co
 ### Why? 
 Xcode was lacking a way to quickly add a method. So I created it.
 
-### Installation Guide (Xcode 8 / OSX 10.11+)
+### Installation Guide (Xcode 8+ / OSX 10.11+)
 
 1. download the [Quick Add app](https://github.com/funky-monkey/QuickAdd/blob/master/release/QuickAddPlugin.zip)
 2. unzip and copy to Applications folder
