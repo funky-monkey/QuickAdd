@@ -77,6 +77,10 @@ class SourceEditorCommand: NSObject, XCSourceEditorCommand {
             let insertionLine = invocation.buffer.lines.count - 1
             let signature = self.createMethodAndComment(name: selectedSourceCode)
             invocation.buffer.lines.insert(signature, at: insertionLine)
+
+			// We need to find the current identation
+			// Find the next closing brace
+			// Insert method after next closing brace with some padding
             
             // Set cursor to insertion point so we can tab
             let cursor: XCSourceTextPosition = XCSourceTextPosition(line: insertionLine, column: 1)
